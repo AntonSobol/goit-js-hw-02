@@ -1,5 +1,3 @@
-console.log(222222222222222);
-
 function formatMessage(message, maxLength) {
   if (message.length <= maxLength) {
     return message;

@@ -1,5 +1,3 @@
-console.log(111111111111111);
-
 function makeTransaction(quantity, pricePerDroid, customerCredits) {
   const totalPrice = quantity * pricePerDroid;
   return totalPrice <= customerCredits

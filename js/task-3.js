@@ -1,5 +1,3 @@
-console.log(333333333333333);
-
 function checkForSpam(message) {
   const isSpam = message.toLowerCase();
   if (isSpam.includes("spam") || isSpam.includes("sale")) {

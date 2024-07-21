@@ -1,5 +1,3 @@
-console.log(444444444444444);
-
 function getShippingCost(country) {
   let price;
   switch (country) {
